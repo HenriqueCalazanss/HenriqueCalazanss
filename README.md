@@ -33,7 +33,7 @@
 <img align="center" alt="HenriqueCalazanss-Js" height="15" width="145" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
   <a href="https://www.instagram.com/henrrycalazans/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/uYYYBSQ4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "[https://mail.google.com/mail/henriquecalazans7@gmail.o](https://mail.google.com/mail/u/0/#sent?compose=CrpPbDzFqDNmxFBPWFmKzvKhzMwkrbKMVNNDpSZtPWbJLDvVsJKmzXJcTpNQzjvhRzRKhBCRvjWwfwXMdQDq)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "henriquecalazans7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/luiz-henrique-calazans-623088250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center" alt="HenriqueCalazanss-Js" height="15" width="145" src="https://cdn.discordapp.com/attachments/625159978419748909/1008961303383117864/a.png">
   
