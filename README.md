@@ -3,7 +3,7 @@
 
 ###  Meu nome é LUIZ HENRIQUE CALAZANS
 ## 
-- 📚 Estudando: HTML, CSS, JavaScript. <img align="right" alt="Henrry-pic" height="120" style="border-radius:100px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"> 
+- 📚 Estudando: HTML, CSS, JavaScript. <img align="right" alt="Henrry-pic" height="100" style="border-radius:10px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"> 
 - 💻 Interesse em: Desemvolvimento WEB e Automação.
 - 🤵‍: Baiano, 20 anos, atualmente moro em Teixeira de Freitas
 
@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueCalazanss">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCalazanss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCalazanss&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCalazanss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCalazanss&layout=compact&langs_count=7&theme=tokyonight"/>
    
 
    
